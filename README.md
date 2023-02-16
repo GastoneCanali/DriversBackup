@@ -1,5 +1,7 @@
 # DriversBackup
-Little gui script to extract windows drivers
+drvBK.cmd is batch script that embed powershell for enhanced GUI features
+
+Exec the script and choose the path for drivers extract
 
 
 ![immagine](https://user-images.githubusercontent.com/29197862/219345228-dfa686d5-6088-4dba-9c93-2976b1608c87.png)
