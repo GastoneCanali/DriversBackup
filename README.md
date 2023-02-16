@@ -1,6 +1,6 @@
 # DriversBackup
 
-drvBK.cmd a is batch script that embed powershell for enhanced GUI features, 
+drvBK.cmd  is a batch script that embed powershell for enhanced GUI features, 
 you can easy extract/copy the current installed drivers (win7, win8, win10, win11)
 
 Run the script and choose the destination path for extracted drivers
