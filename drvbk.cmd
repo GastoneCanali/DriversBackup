@@ -34,7 +34,7 @@ goto :end
 	
 # La Directory da cui viene lanciato lo script
 $ScriptDir = Split-Path -Parent -Path $MyInvocation.MyCommand.Definition
-# . "$ScriptDir\campusfc-utils.ps1"
+
 
 function Set-ConsoleWindow
 {
